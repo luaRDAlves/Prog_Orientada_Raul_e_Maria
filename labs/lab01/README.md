@@ -54,22 +54,22 @@ atualizar o minuto e a hora, quando for o caso).
 
 Definir uma classe que abstraia um círculo
 
-Esta classe deve possuir métodos **privados** para:
+Esta classe deve possuir métodos **Privados** para:
 
 - calcular a área do cı́rculo;
 - calcular a distância entre os centros de 2 cı́rculos;
 - calcular a circunferência do cı́rculo.
 
-E métodos **públicos** para:
+E métodos **Públicos** para:
 - definir o raio do cı́rculo, dado um número real;
 - aumentar o raio do cı́rculo, dado um percentual de aumento;
 - definir o centro do cı́rculo, dada uma posição (X,Y);
 - imprimir o valor do raio;
-- imprimir o centro do cı́rculo;
-- imprimir a área do cı́rculo;
-- imprimir a distância de um outro círculo (parâmetro);
+- imprimir o centro do cı́rculo.
+- imprimir a área do cı́rculo.
 
 Criar um programa principal para testar a classe.
+
 
 ## Exercício 05
 
@@ -121,7 +121,7 @@ temperatura resultante de cada ambiente.
 
 ## Exercício 07
 
-Implemente uma abstração de um carro. O tanque de combustı́vel do carro armazena
+Implemente ua abstração de umm carro. O tanque de combustı́vel do carro armazena
 no máximo 50 litros de gasolina. O carro consome 15 km/litro. Deve ser
 possı́vel:
 
@@ -133,3 +133,4 @@ Elabore um programa para realizar o teste da sua abstração. Lembre-se de
 realizar um teste completo da sua interface e considerar possíveis inconsistências
 de estado (ex. um carro não pode percorrer uma certa distância se ele não
 possuir combustível suficiente para isto).
+
