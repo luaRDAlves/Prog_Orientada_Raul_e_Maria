@@ -22,6 +22,10 @@ RUN chmod 777 /usr/share/code/data
 
 RUN dnf clean all
 
+#USER 1000
+#RUN code --install-extension cantonios.project-templates
+#USER root
+
 RUN sed -i -e 's/ ALL$/ NOPASSWD:ALL/' /etc/sudoers
 
 RUN ln -s /run/host/var/data/aluno /data
