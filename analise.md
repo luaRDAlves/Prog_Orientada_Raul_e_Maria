@@ -34,13 +34,6 @@ Requisitos Funcionais (RF)
 
     RF07: O sistema deve detectar a condição de vitória ("Bater") quando um jogador, após descartar, ficar sem cartas na mão.
 
-Requisitos Não-Funcionais (RNF)
-
-    RNF01: O jogo deve ser executado em uma interface de linha de comando (console).
-
-    RNF02: O código deve ser escrito em C++ e seguir os paradigmas da Programação Orientada a Objetos (modularidade, encapsulamento, etc.).
-
-    RNF03: O sistema deve ser capaz de gerenciar o estado do jogo de forma consistente, sem permitir jogadas inválidas.
 
 ## Diagrama de Casos de Uso
 
