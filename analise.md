@@ -44,9 +44,9 @@ Requisitos Não-Funcionais (RNF)
 
 ## Diagrama de Casos de Uso
 
- ![Diagrama de casos de uso](https://github.com/user-attachments/assets/381f344a-85d4-4837-a339-b7c3be367a31)
+ ![DIagrama de casos de uso](https://github.com/user-attachments/assets/49073613-34d8-4a83-bf37-656fda4ecf19)
 
- 
+
 ## Diagrama de Domínio do problema
 
 Elaborar um diagrama conceitual do domínio do problema.
