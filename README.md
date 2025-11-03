@@ -10,11 +10,11 @@
 
 ## Funcionalidades Principais:
 
-    Partidas completas: Desde a distribuição das cartas até a vitória de um jogador.
+    - Partidas completas: Desde a distribuição das cartas até a vitória de um jogador.
 
-    Interação de turno: Compra do monte/lixo e descarte.
+    - Interação de turno: Compra do monte/lixo e descarte.
 
-    Validação de combinações: Suporte para trincas e sequências. 
+    - Validação de combinações: Suporte para trincas e sequências. 
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
