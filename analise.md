@@ -44,7 +44,8 @@ Requisitos Não-Funcionais (RNF)
 
 ## Diagrama de Casos de Uso
 
- ![DIagrama de casos de uso](https://github.com/user-attachments/assets/49073613-34d8-4a83-bf37-656fda4ecf19)
+ ![Diagrama de caso de uso](https://github.com/user-attachments/assets/f3a68edf-487d-4cbc-b629-468d0f2164a6)
+
 
 
 ## Diagrama de Domínio do problema
