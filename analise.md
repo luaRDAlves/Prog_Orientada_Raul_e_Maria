@@ -44,7 +44,7 @@ Requisitos Não-Funcionais (RNF)
 
 ## Diagrama de Casos de Uso
 
-Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
+ <img src="/home/luar/Downloads/Diagrama de casos de uso.jpeg" alt="Imagem ilustrativa do diagrama de casos de uso" />
  
 ## Diagrama de Domínio do problema
 
