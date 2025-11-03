@@ -9,11 +9,11 @@ exemplo abaixo:
      width="30%" 
      style="padding: 10px">
 
-```
-<img src="ifsc-logo.png" 
+
+<img src="file:///home/luar/Downloads/Diagrama%20de%20casos%20de%20uso.jpeg" 
      width="30%" 
      style="padding: 10px">
-```
+
 
 A opção padding, adiciona um espaçamento entre a imagem e o texto.
 
