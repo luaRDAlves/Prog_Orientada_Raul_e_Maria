@@ -18,7 +18,7 @@ As entidades centrais do domínio são:
 
     Combinação (Jogo Baixado): Um conjunto de cartas que formam um jogo válido, podendo ser uma Trinca (três ou mais cartas de mesmo valor) ou uma Sequência (três ou mais cartas do mesmo naipe em ordem).
 
-Requisitos Funcionais (RF)
+Requisitos Funcionais:
 
     RF01: O sistema deve permitir que 2 (ou mais) jogadores iniciem uma partida.
 
